@@ -13,8 +13,6 @@ In this program we'll use:
 npm install
 ```
 
-------
-
 ## Start
 
 Start the app with the following command:
@@ -41,10 +39,3 @@ npm start
     └── styles
         └── App.css
 ```
-
-
-
-And this is the end, I hope you enjoyed this tutorial 🙏
-
-------
-
