@@ -1,7 +1,5 @@
 # Tasklance - freelancer focussed project management
 
-------
-
 ## Dependencies
 
 In this program we'll use:
